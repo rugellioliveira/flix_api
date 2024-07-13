@@ -14,10 +14,15 @@ Avaliações da Crítica: Permita que usuários e críticos atribuam notas aos f
 -Métodos Suportados
 
 GET: Recupera informações sobre filmes, atores e gêneros.
+
 POST: Adiciona novos registros ao catálogo.
+
 PUT: Atualiza informações existentes.
+
 DELETE: Remove registros do sistema.
+
 PATCH: Realiza atualizações parciais em registros.
+
 OPTIONS: Consulta opções disponíveis para os recursos.
 
 -Tecnologias Utilizadas
